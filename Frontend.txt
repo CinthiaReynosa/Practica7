@@ -1,0 +1,79 @@
+*{
+    </padding: 0px;>
+    </margin: 0px;>
+}
+ul{
+    <list-style: none; <--estilos de las listas-->
+}
+</ul li>{
+    </font-family:segoe ui, Tahoma, Geneva, Verdana, Sans-serif; *Tipo de letra*/>
+    </fontsize: 22px; --Tamaño de letra-->
+    <height: 60px; *Altura de cada opcion de la lista*
+    ul li a{
+        <height: 60px Altura>
+            <background- color="#333";
+                <display: block;
+                </border left: 10px solid rgb(8,96,179);
+                </border right: 5px solid rgb(144,253,111)>
+                <padding left: 15px;  separacion izquierda del texto></padding>
+                </padding decoration: none>
+                </color: #bfe1fi>
+    }
+    ul a:hover{
+        <margin left: 10px; <--separacion de lado izquierdo-->
+        <h3 style=color:#0077b8; <--color de letra-->
+        <background color= #0b1741; <--color de fondo-->
+        <box-shadow:10px 10px 20px #000; <--sombra-->
+        <transform:rotate(4edg); <--movimiento de roacion-->
+        <moz-transform: rotate(4edg);>
+        <webkit-tranform: rotate(4edg)>
+    }
+    </td>
+    <vertical-align: top;>  
+
+    <table width="100%" border="0"> 
+    <tr>
+            <h3 style="color:#0074b4;"Autor:</h3>
+            <img src="https://www.creatopy.com/blog/wp-content/uploads/2017/03/How-to-Make-Responsive-HTML5-Banner-Ads-.png" width="1200px" height="400px">           
+    </td>
+        
+    </tr>
+    
+    <tr> 
+    <td rowspan="3" width="20%">
+        <ul>
+        <font size=5 face="Bahnschrift Light">
+        <b>
+            <li><a href="ini.html">Inicio</a></li>
+            <li><a href="https://www.servnet.mx/blog/backend-y-frontend-partes-fundamentales-de-la-programacion-de-una-aplicacion-web">Frontend</a></li>
+            <li><a href="file:///C:/Users/reyno/OneDrive/Escritorio/Practica7/acerca%20de.html">Acerca de...</a></li>
+             </b>
+    </ul>     
+    <td>
+    <font size=5 face="Bahnschrift Light">
+    <div>
+        <li><a href="https://www.servnet.mx/blog/backend-y-frontend-partes-fundamentales-de-la-programacion-de-una-aplicacion-web">Frontend</a></li>
+        <a>
+        </p>
+    </div>
+    </td>
+    </tr>
+    
+    <tr>
+    <td>
+    <div>
+        <font size=5 face="Bahnschrift Light">
+        <li><a href="file:///C:/Users/reyno/OneDrive/Escritorio/Practica7/acerca%20de.html">Acerca de...></a></li>
+        </a>
+        
+    </tr>
+    <trtr height="100px">
+        <td colspan="2">
+        <font size=5 face="Arial Unicode MS">
+        <i><h3>Licenciatura en Sistemas Computacionales</h3>
+        <p>&copy; Copyright 2022.Cinthia Diaz Reynosa</p>
+        </td></i>
+    </tr>
+    </table>
+</body>
+</html>
