@@ -1,0 +1,84 @@
+<DOCTYPE>
+    <html lang="en">
+    <head>
+    <UL>
+        <meta charset="UTF-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lenguajes Web Fronted</title>
+        </head>
+        <body>
+    
+        <body>
+        <html>
+<body>
+    <table width="100%" border="0"> 
+        
+        
+        <tr>
+            <img src="https://www.creatopy.com/blog/wp-content/uploads/2017/03/How-to-Make-Responsive-HTML5-Banner-Ads-.png" width="1200px" height="400px">           
+        </td>
+        
+    </tr>
+    
+    <tr> 
+        <td rowspan="3" width="20%">
+            <ul>
+                <font size=5 face="Bahnschrift Light">
+                <b>
+                <li><a href="ini.html">Inicio</a></li>
+                <li><a href="FE.html">Frontend</a></li>
+                <li><a href="AD.html">Acerca de...</a></li>
+               </b>
+            </ul>
+        </td>
+        
+        <td>
+            <font size=5 face="Bahnschrift Light">
+            <div>
+                <h2>¿Qué es HTML</h2>
+                <img src="imagenes/html5.jpg" width="300px" height="200px">
+                <p>Es un lenguaje de programación que se utiliza para la creación de páginas en la www.
+                </p>
+            </div>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <div>
+                <font size=5 face="Bahnschrift Light">
+                <h2>¿Qué es CSS</h2>
+                <img src="imagenes/css.png" width="300px" height="200px">
+                <p>Es un lenguaje de diseño grafico para definir y crear la presentacion de un documento estructurado escrito en un lenguaje de marcado.
+                </p>
+                <ul>
+                    <li><a>HTML 1</a></li>
+                    <li><a>HTML 2</a></li>
+                    <li><a>HTML 3</a></li>
+                    <li><a>HTML 4</a></li>
+                    <li><a>HTML 5</a></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <font size=5 face="Bahnschrift Light">
+                <h2>¿Qué es JAVASCRIP</h2>
+                <img src="imagenes/javascript.webp" width="300px" height="200px">
+                <p>Es un lenguaje de programación que se utiliza para construir sitios WEB y para hacerlos más interactivos.
+                </p>
+            </div>
+        </td>
+    </tr>
+    <trtr height="100px">
+        <td colspan="2">
+        <font size=5 face="Arial Unicode MS">
+        <i><h3>Licenciatura en Sistemas Computacionales</h3>
+        <p>&copy; Copyright 2022. Cinthia Diaz Reynosa</p>
+        </td></i>
+    </tr>
+    </table>
+</body>
+</html>
